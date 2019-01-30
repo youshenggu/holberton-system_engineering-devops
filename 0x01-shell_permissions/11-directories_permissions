@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd a+X *
+chomd u+X,g+X,o+X *
